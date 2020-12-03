@@ -8,13 +8,13 @@ Para un correcto uso, hay que seguir estas instrucciones.
 
 ### Instalación
 
-- GLOBAL
+* GLOBAL
 
 ```
 npm install -g file-cli-creator-chaning
 ```
 
-- LOCAL
+* LOCAL
 
 ```
 npm install file-cli-creator-chaning
@@ -24,7 +24,7 @@ npm install file-cli-creator-chaning
 
 - GLOBAL
 
-Ejecutamos \*\*file-cli-creator-chaning
+Ejecutamos **file-cli-creator-chaning
 
 - LOCAL
 
