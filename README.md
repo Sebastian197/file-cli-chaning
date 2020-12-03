@@ -24,7 +24,7 @@ npm install file-cli-creator-chaning
 
 - GLOBAL
 
-Ejecutamos **file-cli-creator-chaning
+Ejecutamos **file-cli-creator-chaning**
 
 - LOCAL
 
